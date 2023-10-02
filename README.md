@@ -1,6 +1,6 @@
-#validation project DATASCIENTEST#
+#validation project DATASCIENTEST
 
-##GOAL:##
+##GOAL:
 
 creation of an API to get articles from NYT, book reviews and covid data. 
 
